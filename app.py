@@ -8,11 +8,10 @@ st.set_page_config(
 )
 
 
-st.title("🔒 PII Detection and Redaction System")
+st.title("Pii detect & redact info")
 
 st.write(
-    "Upload a TXT or PDF document to automatically detect "
-    "and redact Personally Identifiable Information."
+    "Upload a TXT - PDF "
 )
 
 
